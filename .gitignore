@@ -1,6 +1,5 @@
 #忽略配置文件  带/的是目录
 #IntelliJ IDEA
-
 .idea/
 *.iml
 # Eclipse project
